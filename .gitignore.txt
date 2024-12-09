@@ -1,0 +1,9 @@
+# Ігнорувати папки, які створює Python
+__pycache__/
+db_data/
+*.env
+
+
+*.log
+*.sqlite
+.DS_Store
